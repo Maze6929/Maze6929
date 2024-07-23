@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maze6929
+- 👋 Hi, I’m @Maze6929 I am a crypto enthusiast passionate about investments and crypto !
 - 👀 I’m interested in Blockchain & Web3
 - 🌱 I’m currently learning Python,Solidity,C++ 
 
